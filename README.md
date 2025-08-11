@@ -15,3 +15,4 @@ HTML (por sus siglas en ingles, HyperText Markup Language), es un lenguaje de ma
 CSS, o Hojas de Estilo en Cascada (del inglés Cascading Style Sheets), es un lenguaje utilizado para definir la presentación y el estilo de un documento HTML o XML, es decir, cómo se ve una página web. En esencia, CSS separa el contenido de la presentación, permitiendo controlar aspectos visuales como colores, fuentes, márgenes y disposición de los elementos, haciendo que las páginas sean atractivas y funcionales. 
 
 
+JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
