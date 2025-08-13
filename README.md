@@ -15,3 +15,11 @@ CSS, o Hojas de Estilo en Cascada (del inglés Cascading Style Sheets), es un le
 
 
 JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+Siguientes pasos rápidos:
+
+Abre el documento en la columna lateral y guarda el contenido como bfg_tan.html.
+
+Ábrelo en tu navegador para ver la página.
+
+Si querés, la adapto a React + Tailwind, o la convierto en una versión con colores/branding específicos, o agrego integración con WhatsApp/Google Maps.
