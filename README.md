@@ -23,3 +23,5 @@ Abre el documento en la columna lateral y guarda el contenido como bfg_tan.html.
 Ábrelo en tu navegador para ver la página.
 
 Si querés, la adapto a React + Tailwind, o la convierto en una versión con colores/branding específicos, o agrego integración con WhatsApp/Google Maps.
+
+CSS, u Hojas de Estilo en Cascada, es un lenguaje de hojas de estilo que se utiliza para especificar la presentación y el estilo de documentos escritos en lenguajes de marcado como HTML o XML. Es una tecnología fundamental de la World Wide Web, que trabaja en conjunto con HTML y JavaScript para crear páginas web interactivas y visualmente atractivas.
